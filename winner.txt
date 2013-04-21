@@ -1,0 +1,22 @@
+"The number is 81"
+diff   bet    order
+0.50   80.5   13     derzelle
+1.30   79.7   3      luzhnikovskiy
+1.40   82.4   14     lavale
+1.70   82.7   7      aivanov
+2.50   83.5   6      thevery
+2.90   83.9   1      tcharge
+3.00   84     15     abc17
+3.20   84.2   10     hostya
+3.30   84.3   19     oshka
+3.50   84.5   4      mmcleric
+3.60   84.6   12     tobe
+3.80   84.8   11     n1313
+4.00   85     2      kkapp
+5.00   86     8      kukutz
+5.20   86.2   16     sargo
+5.70   86.7   18     corvalol
+6.00   87     9      beskov
+8.00   89     17     kler
+9.00   90     5      alexit
+#END

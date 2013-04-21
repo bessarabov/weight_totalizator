@@ -1,0 +1,337 @@
+{
+  "body": "У меня появилась идея устроить маленький тотализатор. Я сейчас в отпуске в Берлине и отпуск уже подходит к концу. Основное занятие чем я тут занимаюсь — это много и вкусно ем.", 
+  "comments": [
+    {
+      "body": "Я уже несколько лет достаточно регулярно записываю свой вес <a rel=\"nofollow\" href=\"http://ivan.bessarabov.ru/weight\" title=\"http://ivan.bessarabov.ru/weight\">http://ivan.bessarabov.ru/weight</a> , но тут нет весов, поэтому 2 недели я не взвешивался. Идея тотализатора — угадать как можно точнее мой вес в воскресенье 21 апреля (6 апреля я весил 82.2) Приз — маленький сувенир из Берлина, ну и, конечно, слава и уважуха.", 
+      "date": "2013-04-18T07:53:19Z", 
+      "from": {
+        "id": "bessarabov", 
+        "name": "Ivan Bessarabov", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/9e28a198db3d44e292657c7b47a68be7", 
+      "via": {
+        "name": "iPhone", 
+        "url": "http://friendfeed.com/about/tools"
+      }
+    }, 
+    {
+      "body": "83.9", 
+      "date": "2013-04-18T07:56:36Z", 
+      "from": {
+        "id": "tcharge", 
+        "name": "tcharge", 
+        "private": true, 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/35ad6ccc8da8451faae7164ac419fbd1"
+    }, 
+    {
+      "body": "85", 
+      "date": "2013-04-18T08:00:53Z", 
+      "from": {
+        "id": "kkapp", 
+        "name": "Alex Kapranoff", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/c923880f4fc94864846e3292d5a7253e"
+    }, 
+    {
+      "body": "79.7", 
+      "date": "2013-04-18T08:34:38Z", 
+      "from": {
+        "id": "luzhnikovskiy", 
+        "name": "Акка Внебешайсе", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/c9309db0ad7f4b1e9299d4ad885b535b"
+    }, 
+    {
+      "body": "84.5", 
+      "date": "2013-04-18T08:55:54Z", 
+      "from": {
+        "id": "mmcleric", 
+        "name": "мандарин (83% confidence)", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/62cf98685bb94c578e6234fbed43ddef"
+    }, 
+    {
+      "body": "90", 
+      "date": "2013-04-18T13:41:51Z", 
+      "from": {
+        "id": "alexit", 
+        "name": "Из сушёных грибов сиитакэ", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/7fab976d47a7459581ccd7dfa60dedda"
+    }, 
+    {
+      "body": "83.5", 
+      "date": "2013-04-18T13:45:28Z", 
+      "from": {
+        "id": "thevery", 
+        "name": "Ildar Karimov", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/dfcab7e8b7e748609a39bbffc9d16069"
+    }, 
+    {
+      "body": "82.7", 
+      "date": "2013-04-18T13:47:21Z", 
+      "from": {
+        "id": "aivanov", 
+        "name": "Dr. Heinz Doofenshmirtz", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/bd7ab8398d524a59a6c55efd127ab59a"
+    }, 
+    {
+      "body": "86", 
+      "date": "2013-04-18T14:21:39Z", 
+      "from": {
+        "id": "kukutz", 
+        "name": "Настойка чаги на спирту", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/11a22e29dadb415ea2a4fa063b4cef4b"
+    }, 
+    {
+      "body": "87", 
+      "date": "2013-04-18T14:33:40Z", 
+      "from": {
+        "id": "beskov", 
+        "name": "卐 卍", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/8dcad750ce1c49eda13685f1b431f856"
+    }, 
+    {
+      "body": "85", 
+      "date": "2013-04-18T15:04:42Z", 
+      "from": {
+        "id": "liolia", 
+        "name": "x в квадрате это парабула", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/79d9824f574849fcb22ccb824ee1ef70"
+    }, 
+    {
+      "body": "84,2", 
+      "date": "2013-04-18T15:15:34Z", 
+      "from": {
+        "id": "hostya", 
+        "name": "Лучшая девушка в СССР", 
+        "private": true, 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/aefc7acdc24e4e6cbeda0cc8f9c6c996"
+    }, 
+    {
+      "body": "84.8", 
+      "date": "2013-04-18T15:25:38Z", 
+      "from": {
+        "id": "n1313", 
+        "name": "Тринадцатый", 
+        "private": true, 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/3bcbc27017f54ae697a43a190bff9b1d"
+    }, 
+    {
+      "body": "84.6", 
+      "date": "2013-04-18T15:30:57Z", 
+      "from": {
+        "id": "tobe", 
+        "name": "tobe", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/0ac4b8f31bea4312a42f72281fc0b8fc"
+    }, 
+    {
+      "body": "80,5", 
+      "date": "2013-04-18T15:33:05Z", 
+      "from": {
+        "id": "derzelle", 
+        "name": "нина хаген как соски", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/62731c6e655e4bf4bf53aa5b89a7a786"
+    }, 
+    {
+      "body": "82,4", 
+      "date": "2013-04-18T15:42:08Z", 
+      "from": {
+        "id": "lavale", 
+        "name": "Сепарационная тревога", 
+        "private": true, 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/979767e943904bcdbc34c4f9e8af6bd3"
+    }, 
+    {
+      "body": "а пиво пьешь?", 
+      "date": "2013-04-18T15:53:23Z", 
+      "from": {
+        "id": "tatyanakazantceva", 
+        "name": "ТК", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/6fc3b31fc6d744768730ec40efb74710"
+    }, 
+    {
+      "body": "@tatyanakazantceva — извини, не буду отвечать на этот вопрос, считаю неправильным вбрасывать дополнительную информацию в середине процесса.", 
+      "date": "2013-04-18T17:39:58Z", 
+      "from": {
+        "id": "bessarabov", 
+        "name": "Ivan Bessarabov", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/1d5839564f9b43b9aeebf2d42ffe0cb5", 
+      "via": {
+        "name": "iPhone", 
+        "url": "http://friendfeed.com/about/tools"
+      }
+    }, 
+    {
+      "body": "Берлин, пиво, сосиски... Думаю, все-таки 90.", 
+      "date": "2013-04-19T14:27:48Z", 
+      "from": {
+        "id": "alexit", 
+        "name": "Из сушёных грибов сиитакэ", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/d96ef3aa5de0401da1d490abc6e03121"
+    }, 
+    {
+      "body": "84", 
+      "date": "2013-04-20T12:18:24Z", 
+      "from": {
+        "id": "abc17", 
+        "name": "pffully", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/c57523eda5cf45e9a13304c7144fce75", 
+      "via": {
+        "name": "iPhone", 
+        "url": "http://friendfeed.com/about/tools"
+      }
+    }, 
+    {
+      "body": "я взглянул в weight.json и ужаснулся, увидев поля min, max и avg для каждого отдельного дня", 
+      "date": "2013-04-20T12:27:40Z", 
+      "from": {
+        "id": "n1313", 
+        "name": "Тринадцатый", 
+        "private": true, 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/f401ab2f77d142069fcb33c0b579cc99"
+    }, 
+    {
+      "body": "86.2", 
+      "date": "2013-04-20T14:20:06Z", 
+      "from": {
+        "id": "sargo", 
+        "name": "Sergey Trofimov", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/455c9ab2cd4247a39c4a29d5c518f7af", 
+      "via": {
+        "name": "Android", 
+        "url": "http://friendfeed.com/about/tools"
+      }
+    }, 
+    {
+      "body": "89 =)", 
+      "date": "2013-04-20T14:58:04Z", 
+      "from": {
+        "id": "kler", 
+        "name": "весеннее тело", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/d743aeca50b24ebf933bb77afb7d4c00"
+    }, 
+    {
+      "body": "@n1313 — да, ты совершенно прав, там все плохо сделано. Но это не является узким местом я и это не правлю. Хотя, конечно, да, есть сделать структуру более оптамалальной то время первой отрисовки графика сильно уменьшится.", 
+      "date": "2013-04-20T15:26:29Z", 
+      "from": {
+        "id": "bessarabov", 
+        "name": "Ivan Bessarabov", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/682e05620e2a49d981ffcc3c2471d5c1"
+    }, 
+    {
+      "body": "нет-нет, я не в том плане, что плохо сделано. я решил, что ты заполняешь эти поля вручную, типа взвешиваешься пять раз за день и каждое взвешивание заносишь, и ужаснулся дотошности :)", 
+      "date": "2013-04-21T04:24:55Z", 
+      "from": {
+        "id": "n1313", 
+        "name": "Тринадцатый", 
+        "private": true, 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/a0318d376d0b485e8951b6fc7b6bb69b"
+    }, 
+    {
+      "body": "86.7", 
+      "date": "2013-04-21T07:32:05Z", 
+      "from": {
+        "id": "corvalol", 
+        "name": "плетчатый клед", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/383eb6e11fa841dba37c152bb9151972"
+    }, 
+    {
+      "body": "84.3", 
+      "date": "2013-04-21T07:41:34Z", 
+      "from": {
+        "id": "oshka", 
+        "name": "Ошка", 
+        "type": "user"
+      }, 
+      "id": "e/dc1eff2e2fb848e2a3b41824d16470a4/c/4652765c995048198a56f178198b0f55"
+    }
+  ], 
+  "date": "2013-04-18T07:52:06Z", 
+  "from": {
+    "id": "bessarabov", 
+    "name": "Ivan Bessarabov", 
+    "type": "user"
+  }, 
+  "id": "e/dc1eff2e2fb848e2a3b41824d16470a4", 
+  "likes": [
+    {
+      "date": "2013-04-21T09:06:38Z", 
+      "from": {
+        "id": "lothar", 
+        "name": "Peter Fedin", 
+        "type": "user"
+      }
+    }, 
+    {
+      "date": "2013-04-18T13:41:47Z", 
+      "from": {
+        "id": "alexit", 
+        "name": "Из сушёных грибов сиитакэ", 
+        "type": "user"
+      }
+    }, 
+    {
+      "date": "2013-04-18T09:36:22Z", 
+      "from": {
+        "id": "abc17", 
+        "name": "pffully", 
+        "type": "user"
+      }
+    }
+  ], 
+  "rawBody": "У меня появилась идея устроить маленький тотализатор. Я сейчас в отпуске в Берлине и отпуск уже подходит к концу. Основное занятие чем я тут занимаюсь — это много и вкусно ем.", 
+  "rawLink": "http://friendfeed.com/e/dc1eff2e-2fb8-48e2-a3b4-1824d16470a4", 
+  "url": "http://friendfeed.com/bessarabov/dc1eff2e", 
+  "via": {
+    "name": "iPhone", 
+    "url": "http://friendfeed.com/about/tools"
+  }
+}
